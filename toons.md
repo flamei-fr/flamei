@@ -7,7 +7,7 @@ Toons are not only the characters you play as in Dandy's World, they can also be
     <th>Stats</th>
   </tr>
   <tr>
-    <td><img src="toon-image.jpg" alt="Toon Name"></td>
+    <td><img src="https://tse3.mm.bing.net/th/id/OIP.jtlXylJLJ9sjeI-yhEBAiAHaHa?rs=1&pid=ImgDetMain" alt="Astro"></td>
     <td><img src="twisted-image.jpg" alt="Twisted Version"></td>
     <td>Description of the twisted version...</td>
     <td>Health: 100, Attack: 50, Speed: 30</td>
