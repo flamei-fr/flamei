@@ -41,7 +41,6 @@ Also, sorry for the stats section looking a little strange... it refused to let 
       <br>
       Extraction: ★★★&nbsp;&nbsp;
     <br> </td>
-        <td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
