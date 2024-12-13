@@ -25,6 +25,23 @@ Also, sorry for the stats section looking a little strange... it refused to let 
       <br>
       Extraction: ★★★&nbsp;&nbsp;
     <br> </td>
+      <tr>
+    <td><img src="https://tse2.mm.bing.net/th/id/OIP.xDUOZX7EBmI1UAqGjim4yAHaHa?rs=1&pid=ImgDetMain" alt="Boxten"></td>
+    <td><img src="https://tse4.mm.bing.net/th/id/OIP.Hqj59Dh4JaUkhY3xEms2SwHaHa?rs=1&pid=ImgDetMain" alt="Twisted Boxten"></td>
+    <td>One of the most common Twisteds you'll encounter. Overcome by Ichor, this Twisted has the innate urge to chase others down. Thankfully, it appears that this Twisted doesn't have any abilities to aid him.</td>
+    <td>Health:♥♥♥&nbsp;&nbsp;
+      <br>
+      Skill Check: ★★★ &nbsp;&nbsp;
+      <br>
+      Speed: ★★★ &nbsp;&nbsp;
+      <br>
+      Stamina: ★★★ &nbsp;&nbsp;
+      <br>
+      Stealth: ★★★ &nbsp;&nbsp;
+      <br>
+      Extraction: ★★★&nbsp;&nbsp;
+    <br> </td>
+        <td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
